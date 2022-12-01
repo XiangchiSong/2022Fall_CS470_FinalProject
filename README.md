@@ -2,7 +2,7 @@
 
 ## Video Demo
   Since the focus of this project is to use TurtleBot to achieve the established tasks, we have integrated multiple open source algorithms and data packages, which is time-consuming in environment establishment and early debugging. In order to save your time, we have recorded a demonstration video:
-  Dynamic Path Planning：<a href="{https://www.youtube.com/watch?v=bYGZfkeKLG8}" title="2022Fall_CS470_Dynamic Path Planning"></a>
+  Dynamic Path Planning：[<a href="{https://www.youtube.com/watch?v=bYGZfkeKLG8}" title="2022Fall_CS470_Dynamic Path Planning"></a>](https://www.youtube.com/watch?v=bYGZfkeKLG8)
   
 ## Prerequisites
   The whole process is realized based on the indoor environment and manual layout of the E3-2110 laboratory assigned by this course. For details, please refer to the map file: 
