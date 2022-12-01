@@ -34,7 +34,7 @@
 ### Path Planning
   <img width="800" alt="微信图片_20221201130431" src="https://user-images.githubusercontent.com/81891626/204963225-f59c3eaf-309f-49ac-a3d2-c8086fd40c06.png">
   
-  Problems that still exist: Since the simulated environment is all built by ourselves, there are gaps in the barriers, which makes the radar think that it is a feasible route, but the actual situation is not passable, which is an acceptable error.
+  ***Problems that still exist:*** Since the simulated environment is all built by ourselves, there are gaps in the barriers, which makes the radar think that it is a feasible route, but the actual situation is not passable, which is an acceptable error.
 
 ### Autonomous Cruise
   Divide the original map obstacle-free area according to the size of the robot, and traverse all the divided areas directly after division. Traversing directly according to certain rules does not guarantee the optimal path, but can achieve relatively optimal and complete basic functions.
