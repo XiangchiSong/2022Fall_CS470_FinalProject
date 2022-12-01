@@ -31,6 +31,8 @@
   Final floor plan of room E3-2110:
   <img width="800" alt="微信图片_20221130163615" src="https://user-images.githubusercontent.com/81891626/204735152-19de379b-ffba-4e56-bf76-5582e83bbac2.png">
   
+  ***We strongly suggest you to use the map of the E3-2110 room we created directly for follow-up testing:***
+  
 ### Path Planning
   <img width="800" alt="微信图片_20221201130431" src="https://user-images.githubusercontent.com/81891626/204963225-f59c3eaf-309f-49ac-a3d2-c8086fd40c06.png">
   
