@@ -5,8 +5,10 @@
   
 ## Video Demo
   Since the focus of this project is to use TurtleBot to achieve the established tasks, we have integrated multiple open source algorithms and data packages, which is time-consuming in environment establishment and early debugging. **In order to save your time, we have recorded a demonstration video:** <br/>
-  Dynamic Path Planning: https://www.youtube.com/watch?v=bYGZfkeKLG8<br/>
-  Autonomous SLAM Mapping: https://www.youtube.com/watch?v=CHH_Y6_o5RA
+  Autonomous SLAM Mapping: https://www.youtube.com/watch?v=CHH_Y6_o5RA<br/>
+  Mapping (Real machine demonstration): https://www.youtube.com/watch?v=rr8u_8UJrLU<br/>
+  Dynamic Path Planning: https://www.youtube.com/watch?v=bYGZfkeKLG8
+
 
 ## File Structure
 
