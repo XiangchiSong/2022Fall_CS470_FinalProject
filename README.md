@@ -1,7 +1,7 @@
 # 2022Fall_CS470_FinalProject
 
 ## Task Purpose:
-  Integrate Mini-DARPA modeling into scene recognition based on SLAM algorithm to reduce the repetition rate and improve the recognition accuracy of difficult maps. Our project aims to use Turtlebot Waffle to realize automatic scanning and mapping of scenes, path planning and automatic cruise (full coverage).
+  Integrate Mini-DARPA modeling into scene recognition based on SLAM algorithm to reduce the repetition rate and improve the recognition accuracy of difficult maps. Our project aims to use Turtlebot Burger to realize automatic scanning and mapping of scenes, path planning and automatic cruise (full coverage).
   
 ## Video Demo
   Since the focus of this project is to use TurtleBot to achieve the established tasks, we have integrated multiple open source algorithms and data packages, which is time-consuming in environment establishment and early debugging. **In order to save your time, we have recorded a demonstration video:** <br/>
