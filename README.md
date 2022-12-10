@@ -66,7 +66,7 @@ sudo apt install ros-${ROS_DISTRO}-turtlebot3 ros-${ROS_DISTRO}-navigation ros-$
 
   After the map is obtained, the coverage path is generated and the robot can follow the path.
   
-  ***Take the example of E3-2110 Room, the final result you see looks like this: ***
+  ***Take the example of E3-2110 Room, the final result you see looks like this:***
   
   Self-discovery process:
   ![微信图片_20221130163054](https://user-images.githubusercontent.com/81891626/204734246-126d5749-9947-4f44-82c7-243f5247d6c2.jpg)
@@ -94,7 +94,7 @@ sudo apt install ros-${ROS_DISTRO}-turtlebot3 ros-${ROS_DISTRO}-navigation ros-$
   
   ![image](https://user-images.githubusercontent.com/81891626/206839313-2f2f9e77-7385-4d8f-8cda-9ac33b7f5232.png)
 
-  ***Take the example of E3-2110 Room, the final result you see looks like this: ***
+  ***Take the example of E3-2110 Room, the final result you see looks like this:***
   
   <img width="800" alt="微信图片_20221201130431" src="https://user-images.githubusercontent.com/81891626/204963225-f59c3eaf-309f-49ac-a3d2-c8086fd40c06.png">
   
