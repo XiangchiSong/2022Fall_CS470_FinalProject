@@ -26,9 +26,10 @@ sudo apt install ros-${ROS_DISTRO}-turtlebot3 ros-${ROS_DISTRO}-navigation ros-$
   * Step 4: Autonomous Cruise
   
 ### Environment Construction
-  ![微信图片_20221130161451](https://user-images.githubusercontent.com/81891626/204731592-125b096a-6c56-4019-a836-9d89bc8ac3f3.jpg)
-  ![微信图片_20221130161454](https://user-images.githubusercontent.com/81891626/204731600-c4da904f-f978-4f0f-9af3-50c161732cc9.jpg)
+  ![image](https://user-images.githubusercontent.com/81891626/206839541-847de621-690e-4d49-a9f4-16baa2256ffe.png)
   
+  ![image](https://user-images.githubusercontent.com/81891626/206839545-bfda39ad-27d3-43a8-bde8-d31b7f89ca33.png)
+
 ### Independent Exploration and Mapping
   To begin with:
   ```
@@ -69,7 +70,8 @@ sudo apt install ros-${ROS_DISTRO}-turtlebot3 ros-${ROS_DISTRO}-navigation ros-$
   ***Take the example of E3-2110 Room, the final result you see looks like this:***
   
   Self-discovery process:
-  ![微信图片_20221130163054](https://user-images.githubusercontent.com/81891626/204734246-126d5749-9947-4f44-82c7-243f5247d6c2.jpg)
+  ![image](https://user-images.githubusercontent.com/81891626/206839553-363e7f4d-a1f0-46b5-9b57-644ed64d53cb.png)
+  
   <img width="800" alt="微信图片_20221130163447" src="https://user-images.githubusercontent.com/81891626/204734913-15801071-41a1-49c4-a818-aa417c043bce.png">
 
   Final floor plan of room E3-2110:
