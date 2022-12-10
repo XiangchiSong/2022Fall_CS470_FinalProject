@@ -70,6 +70,7 @@ sudo apt install ros-${ROS_DISTRO}-turtlebot3 ros-${ROS_DISTRO}-navigation ros-$
   ***Take the example of E3-2110 Room, the final result you see looks like this:***
   
   Self-discovery process:
+  
   ![image](https://user-images.githubusercontent.com/81891626/206839553-363e7f4d-a1f0-46b5-9b57-644ed64d53cb.png)
   
   <img width="800" alt="微信图片_20221130163447" src="https://user-images.githubusercontent.com/81891626/204734913-15801071-41a1-49c4-a818-aa417c043bce.png">
