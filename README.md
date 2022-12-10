@@ -10,7 +10,7 @@
   Dynamic Path Planning: https://www.youtube.com/watch?v=bYGZfkeKLG8
 
 ## Prerequisites
-  * The whole process is realized based on the indoor environment and manual layout of the ***E3-2110 laboratory*** assigned by this course. Therefore, all experimental operations and results are generated and used based on the structural layout in the E3-2110 room. In order to save time, please **directly use the E3-2110 room map** that we scanned and saved: **mappp.pgm**
+  * The whole process is realized based on the indoor environment and manual layout of the ***E3-2110 laboratory*** assigned by this course. Therefore, all experimental operations and results are generated and used based on the structural layout in the E3-2110 room. 
   * The codes include two parts. The “minidarpa” includes an open source package for full coverage path generation based on Backtracking Spiral Algorithm. There are also some launch files to start the simulations or conduct the experiments in real environment. The “explore_lite” includes an open source package for robot exploration and SLAM in unknown environment. 
 
 ## Dependencies
@@ -78,7 +78,6 @@ sudo apt install ros-${ROS_DISTRO}-turtlebot3 ros-${ROS_DISTRO}-navigation ros-$
   Final floor plan of room E3-2110:
   <img width="800" alt="微信图片_20221130163615" src="https://user-images.githubusercontent.com/81891626/204735152-19de379b-ffba-4e56-bf76-5582e83bbac2.png">
   
-  ***To save your time, we strongly suggest you to use the map of the E3-2110 room we created directly for follow-up testing:***
   
 ### Path Planning
   If you conduct the map saving code in the last Step:
