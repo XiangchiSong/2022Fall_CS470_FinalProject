@@ -11,7 +11,7 @@
 
 ## Prerequisites
   * The whole process is realized based on the indoor environment and manual layout of the ***E3-2110 laboratory*** assigned by this course. Therefore, all experimental operations and results are generated and used based on the structural layout in the E3-2110 room. 
-  * The ```mappp.yaml``` in minidarpa/maps/ is the map we constructed during the experiment. The real experiment result videos are demonstrated in youtube videos. Below are the guide to run the codes in simulation environment for demonstration.
+  * The ```mappp.yaml``` in ```minidarpa/maps/``` is the map we constructed during the experiment. The real experiment result videos are demonstrated in youtube videos. Below are the guide to run the codes in simulation environment for demonstration.
   * The codes include two parts. The ```minidarpa``` includes an open source package for full coverage path generation based on Backtracking Spiral Algorithm. There are also some launch files to start the simulations or conduct the experiments in real environment. The ```explore_lite``` includes an open source package for robot exploration and SLAM in unknown environment. 
 
 ## Dependencies
